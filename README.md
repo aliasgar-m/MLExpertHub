@@ -10,7 +10,7 @@
 </div>
 
 ## Overview
-Newsletters across the internet have valuable information in terms technical, political, and economic insights. However,
+Newsletters across the internet have valuable information in terms of technical, political, and economic insights. However,
 in our busy lives, one often does not get enough time to peruse through all the newsletters they have subscribed to. In
 an effort to optimize time and support efficient learning from different newsletters, we introduce a new application
 designed to allow you to summarize, search and recommend content across subscribed newsletters.
